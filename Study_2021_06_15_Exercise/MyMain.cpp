@@ -2,7 +2,7 @@
 #include<iostream>
 #include<vector>
 #include<windows.h>
-#include<conio.h>
+#include <conio.h>
 #include<random>
 #include"CUnit.h"
 #include"CHuman.h"
@@ -10,6 +10,7 @@
 #include "GlobalValue.h"
 
 using namespace std;
+#pragma warning(disable:4996)
 void main()
 {
 	srand((unsigned)time(NULL));
