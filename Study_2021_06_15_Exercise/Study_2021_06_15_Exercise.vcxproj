@@ -142,12 +142,14 @@
     <ClCompile Include="CHuman.cpp" />
     <ClCompile Include="CUnit.cpp" />
     <ClCompile Include="CZombie.cpp" />
+    <ClCompile Include="GlobalValue.cpp" />
     <ClCompile Include="MyMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CHuman.h" />
     <ClInclude Include="CUnit.h" />
     <ClInclude Include="CZombie.h" />
+    <ClInclude Include="GlobalValue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

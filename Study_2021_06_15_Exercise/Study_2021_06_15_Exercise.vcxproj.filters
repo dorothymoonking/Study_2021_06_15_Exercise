@@ -27,6 +27,9 @@
     <ClCompile Include="CZombie.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="GlobalValue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CUnit.h">
@@ -36,6 +39,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="CZombie.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalValue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
